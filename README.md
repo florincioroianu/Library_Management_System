@@ -1,4 +1,9 @@
-
+# Scurta descriere:
+Sistem dinamic management biblioteca creat pentru laboratorul materiei "Tehnologii Java" din anul 2, semestrul 1.
+# Tehnologii utilizate: 
+Java, Java Swing
+# Cerinte:
+PC
 ![1](https://user-images.githubusercontent.com/49078219/164283654-76851ab8-8575-4d0f-86ca-8cf55dae11a1.png)
 ![2](https://user-images.githubusercontent.com/49078219/164283667-5e15c8db-bd90-4460-8d14-f5c3004849e3.png)
 ![3](https://user-images.githubusercontent.com/49078219/164283681-95ae23b6-4538-4757-845e-f20947ecfae3.png)
